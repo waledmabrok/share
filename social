@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>تابعني</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background: #f0f0f0;
+    }
+    h1 {
+      margin-bottom: 30px;
+    }
+    .btn {
+      display: block;
+      width: 200px;
+      margin: 10px auto;
+      padding: 15px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+      transition: background-color 0.3s;
+    }
+    .btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>تابعني على السوشيال ميديا</h1>
+  <a class="btn" href="https://www.instagram.com/nourboutiqueee?igsh=MXN4bzRkcWJmY3J3ag==" target="_blank">إنستجرام</a>
+  <a class="btn" href="https://www.tiktok.com/@nourboutiqueee?_t=ZS-8yWmED1alMq&_r=1" target="_blank">تيك توك</a>
+  <a class="btn" href="https://www.facebook.com/share/1CLzDWinmV/?mibextid=wwXIfr" target="_blank">فيسبوك</a>
+</body>
+</html>
